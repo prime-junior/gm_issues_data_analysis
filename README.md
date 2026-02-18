@@ -73,8 +73,5 @@ Uses regex patterns to extract and standardize diagnostic trouble codes:
 - Automatic case normalization
 - Frequency analysis and ranking
 
-## Author
-Developed by [Weverson Barbieri de Oliveira](https://github.com/weversonbarbieri)
-
 ## License
 MIT
